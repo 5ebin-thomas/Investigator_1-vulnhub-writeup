@@ -151,7 +151,7 @@ And then try to unlock device by pressing enter.
 
 ![Investigator%201%20Vulnhub%20writeup%20f102375c32c945db8104e44d4fe4fb7f/Untitled%2014.png](Investigator%201%20Vulnhub%20writeup%20f102375c32c945db8104e44d4fe4fb7f/Untitled%2014.png)
 
-After searching for flag, i found it in messaging app. It was also asking for password. I used secret key password as pattern to unlock it.
+After searching for flag, i found it in messaging app. It was also asking for password. I used secret key password 259148637 as pattern to unlock it.
 
 ![Investigator%201%20Vulnhub%20writeup%20f102375c32c945db8104e44d4fe4fb7f/Untitled%2015.png](Investigator%201%20Vulnhub%20writeup%20f102375c32c945db8104e44d4fe4fb7f/Untitled%2015.png)
 
